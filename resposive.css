@@ -1,0 +1,268 @@
+@media ( max-width: 980px ) {
+    
+    .logo{
+        width: 100%;
+        text-align: center;
+        margin: 40px 0px 15px ;
+    }
+    .mid{
+        width: 100%;
+        margin: auto;
+    }
+    .right{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+        margin-top: 25px;
+    } 
+
+    .button1{
+        font-size: 18px;
+        padding: 5px 18px;
+        margin-left: 50px;
+    }
+    .button2{
+        font-size: 18px;
+        padding: 5px 18px;
+    }
+}
+/* nav var section end */
+
+/* Section1 start */
+
+@media ( max-width: 1100px) {
+   
+    .text{
+        font-size: 35px;
+    }
+
+    .selecttag{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+    
+  .why{
+    width: 25%;
+  }
+}
+@media ( max-width: 57px) {
+
+}
+@media ( max-width: 815px) {
+    .left{
+        width: auto;
+        font-size: 23px;
+        text-align: center;
+        padding: 7px 35px;
+    }
+    .right-button{
+        width: auto;
+        font-size: 23px;
+        text-align: center;
+        padding: 7px 35px;
+    }
+}
+
+@media ( max-width: 597px) {
+    .left{
+        display: block;
+    }
+    .right-button{
+        float: left;
+        margin-top: 15px;
+    }
+    .mid1{
+     height: 500px;
+    }
+    .why{
+        width: 40%;
+    }
+}
+
+/* section 2 start here */
+
+@media ( max-width: 1050px){
+    .text2{
+        font-size: 28px;
+    }
+    .img1 img {
+        text-align: center;
+        height: 80px;
+    }
+    
+}
+
+@media ( max-width: 850px){
+    .img1 img {
+        text-align: center;
+        height: 45px;
+        margin-top: 10px;
+    }
+}
+
+/* section 3  start here */
+
+@media ( max-width: 1250px) {
+     .features{
+        font-size: 29px;
+     }
+     .first{
+        width: 30%;
+
+     }
+     .two{
+        width: 30%;
+     }
+     .three{
+        width: 30%;
+     }
+}
+
+@media ( max-width: 1025px){
+    .section3{
+        height:970px ;
+    }
+    .first{
+        width: 40%;
+    }
+    .two{
+        width: 40%;
+    }
+    .three{
+        width: 40%;
+        margin: auto;
+
+    }
+}
+@media ( max-width: 460px){
+    .section3{
+        height:1250px ;
+    }
+   
+    .first{
+        width: 100%;
+    }
+    .two{
+        width: 100%;
+    }
+    .three{
+        width: 100%;
+        margin: auto;
+
+    }
+    
+}
+@media ( max-width: 756px){
+    .see{
+        margin-top: 190px;
+    }
+}
+
+/* section 4 start here */
+
+@media ( max-width: 1230px) {
+.section4{
+    height: 1280px;
+}
+.left-part{
+    width: 100%;
+    border: none;
+}
+.right-part{
+    width: 100%;
+    
+}
+.box1 , .box2 , .box3 , .box5 , .box6 , .box7 {
+    width: 500px;
+}
+
+}
+
+@media ( max-width: 550px){
+    .box1 , .box2 , .box3 , .box5 , .box6 , .box7 {
+        width: 420px;
+    }
+}
+
+/* section 5 start here */
+
+@media ( max-width: 800px){
+    .text5{
+        font-size: 40px;
+    }
+    
+    .get-started{
+        left: 35%;
+    }
+    .get-started a{
+        font-size: 30px;
+
+    }
+}
+
+@media ( max-width: 706px){
+   .text5{
+    font-size: 35px;
+   }
+}
+
+@media ( max-width: 618px){
+    .get-started{
+        margin-top: 270px;
+    }
+}
+
+/* footer start here */
+
+@media ( max-width: 677px){
+    footer{
+        width: 100%;
+        height: 370px;
+    }
+
+    .content1{
+        width: 20%;
+        img{
+            width: 80px;
+        }
+    }
+
+    .content2{
+        width: 25%;
+    }
+    .content3{
+        width: 25%;
+    }
+    .content4{
+        width: 25%;
+    }
+}
+  @media (max-width: 560px){
+    footer{
+        width: 100%;
+        height: 650px;
+        display: inline-block;
+        align-items: start;
+        
+    }
+    .content1{
+        width: 50%;
+        float: left;
+        margin-left: 35px;
+    }
+    .content2{
+        width: 40%;
+        float: left;
+    }
+    .content3{
+        width: 50%;
+        margin-left: 35px;
+    }
+    .content4{
+        width: 40%;
+        margin-top: 10px;
+        float: right;
+    }
+  }
+
